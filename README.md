@@ -24,8 +24,10 @@ To analyze air pollution trends in Delhi NCR using historical AQI and pollutant 
 ## 📈 Key Insights
 - PM10 and PM2.5 are consistently the dominant pollutants.
 - Winter months show significantly higher AQI levels.
-- [AQI by Months](Dashboard/Average_AQI_by_Months)
 - Severe and Moderate AQI categories dominate the dataset.
 - Pollution levels show an increasing trend across years.
 
-
+## 📊Dashboard
+- [AQI by Months](Dashboard/Average_AQI_by_Months)
+- [Average pollution levels in Cities](Dashboard/Average_Pollutant_level_by_City)
+- [Average Pollutant by Years](Dashboard/Average_pollutant_by_Years)
