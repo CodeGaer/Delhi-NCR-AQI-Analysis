@@ -26,8 +26,3 @@ To analyze air pollution trends in Delhi NCR using historical AQI and pollutant 
 - Winter months show significantly higher AQI levels.
 - Severe and Moderate AQI categories dominate the dataset.
 - Pollution levels show an increasing trend across years.
-
-## 📊Dashboard
-- [AQI by Months](Dashboard1/Average_AQI_by_Months.png)
-- [Average pollution levels in Cities](Dashboard1/Average_Pollutant_level_by_City.png)
-- [Average Pollutant by Years](Dashboard1/Average_pollutant_by_Years.png)
