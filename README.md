@@ -28,6 +28,6 @@ To analyze air pollution trends in Delhi NCR using historical AQI and pollutant 
 - Pollution levels show an increasing trend across years.
 
 ## 📊Dashboard
-- [AQI by Months](Dashboard/Average_AQI_by_Months.png)
-- [Average pollution levels in Cities](Dashboard/Average_Pollutant_level_by_City.png)
-- [Average Pollutant by Years](Dashboard/Average_pollutant_by_Years.png)
+- [AQI by Months](Dashboard1/Average_AQI_by_Months.png)
+- [Average pollution levels in Cities](Dashboard1/Average_Pollutant_level_by_City.png)
+- [Average Pollutant by Years](Dashboard1/Average_pollutant_by_Years.png)
